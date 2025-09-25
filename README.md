@@ -30,4 +30,7 @@ El tag &lt;div&gt; es el elemento en bloque por excelencia y &lt;span&gt; es el 
 
 ## Los atributos id y class
 Estos dos atributos son universales y pueden ser usados por cualquier elemento. El atributo id es único y no se puede repetir dentro de una misma página, mientras que el atributo class se puede aplicar a varios elementos.
-### IMPORTANTE: No hace falta asignarle un id o un class a todos los elementos de una página. Estos atributos son útiles para diferenciar elementos únicos que queramos resaltar, con lo que añadirlos a todos los elementos de la página hará que se agrupen todos los elementos de la misma manera.
+***IMPORTANTE: No hace falta asignarle un id o un class a todos los elementos de una página. Estos atributos son útiles para diferenciar elementos únicos que queramos resaltar, con lo que añadirlos a todos los elementos de la página hará que se agrupen todos los elementos de la misma manera.***
+
+## Tags semánticos
+Los tags &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;section&gt;, &lt;aside&gt; y &lt;footer&gt; nos permiten dar significado semántico para nuestra página, de manera que un buscador pueda encontrar información clave sobre la página. Además, nos permiten organizar la información dentro de la página.

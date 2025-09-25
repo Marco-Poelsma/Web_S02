@@ -20,3 +20,14 @@ Dentro de este atributo va al menos un &lt;tr&gt; que solo contiene tags &lt;th&
 
 ### &lt;tbody&gt;
 Aquí va el cuerpo de la tabla. Cada uno de los &lt;tr&gt;s contiene tags &lt;td&gt; (table data). Este tag se usa para el cuerpo.
+
+
+## Elementos en bloque y elementos en línea
+En HTML, podemos distinguir entre dos tipos de elementos. Los elementos de bloque, que ponen un salto de línea al final, y el elemento en línea, que no hace el salto de línea.
+
+### &lt;div&gt; y &lt;span&gt;
+El tag &lt;div&gt; es el elemento en bloque por excelencia y &lt;span&gt; es el elemento en línea por excelencia.
+
+## Los atributos id y class
+Estos dos atributos son universales y pueden ser usados por cualquier elemento. El atributo id es único y no se puede repetir dentro de una misma página, mientras que el atributo class se puede aplicar a varios elementos.
+### IMPORTANTE: No hace falta asignarle un id o un class a todos los elementos de una página. Estos atributos son útiles para diferenciar elementos únicos que queramos resaltar, con lo que añadirlos a todos los elementos de la página hará que se agrupen todos los elementos de la misma manera.
